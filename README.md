@@ -10,7 +10,6 @@ Terminal : Termite
 Terminal Font : Monospace 9   
 Theme : Deepin-dark [GTK2/3]   
 
-
-
-
+Sample Screenshot:
+![alt text](https://github.com/pavansrinivasmamidala/dotfiles/blob/master/temp.png)
 
